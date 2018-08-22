@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) 36: Async Actions
+![cf](http://i.imgur.com/7v5ASc8.png) Async Actions
 ===
 
 ## Submission Instructions
